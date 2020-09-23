@@ -1,0 +1,8 @@
+C:\Users\mustapha.omotunwase\Documents\PersonlProject\confidential\SyarpaHangfire\SkarpaHangfire.Core\obj\Debug\netcoreapp3.1\SkarpaHangfire.Core.csprojAssemblyReference.cache
+C:\Users\mustapha.omotunwase\Documents\PersonlProject\confidential\SyarpaHangfire\SkarpaHangfire.Core\obj\Debug\netcoreapp3.1\SkarpaHangfire.Core.AssemblyInfoInputs.cache
+C:\Users\mustapha.omotunwase\Documents\PersonlProject\confidential\SyarpaHangfire\SkarpaHangfire.Core\obj\Debug\netcoreapp3.1\SkarpaHangfire.Core.AssemblyInfo.cs
+C:\Users\mustapha.omotunwase\Documents\PersonlProject\confidential\SyarpaHangfire\SkarpaHangfire.Core\bin\Debug\netcoreapp3.1\SkarpaHangfire.Core.deps.json
+C:\Users\mustapha.omotunwase\Documents\PersonlProject\confidential\SyarpaHangfire\SkarpaHangfire.Core\bin\Debug\netcoreapp3.1\SkarpaHangfire.Core.dll
+C:\Users\mustapha.omotunwase\Documents\PersonlProject\confidential\SyarpaHangfire\SkarpaHangfire.Core\bin\Debug\netcoreapp3.1\SkarpaHangfire.Core.pdb
+C:\Users\mustapha.omotunwase\Documents\PersonlProject\confidential\SyarpaHangfire\SkarpaHangfire.Core\obj\Debug\netcoreapp3.1\SkarpaHangfire.Core.dll
+C:\Users\mustapha.omotunwase\Documents\PersonlProject\confidential\SyarpaHangfire\SkarpaHangfire.Core\obj\Debug\netcoreapp3.1\SkarpaHangfire.Core.pdb
